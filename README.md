@@ -1,4 +1,5 @@
 oz-scrobbler
 ============
 
-Last.fm scrobbler for youtube via greasemonkey
+Greasemonkey script for scrobbling automatically and manually from youtube.
+
