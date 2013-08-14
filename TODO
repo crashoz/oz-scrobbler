@@ -1,0 +1,4 @@
+- Add some kind of database to store user supplied metadata for a video ID.
+- Auto-scrobble
+- Improve metadata parsing from title
+- Improve user interface
